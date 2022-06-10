@@ -9,10 +9,6 @@
   ],
   "module": "./index.mjs",
   "main": "./index.js",
-  "exports": {
-    "require": "./index.js",
-    "import": "./index.mjs"
-  },
   "dependencies": {
     "svg-arc-to-cubic-bezier": "^3.0.0"
   },
